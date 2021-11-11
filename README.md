@@ -3,7 +3,7 @@
 - 👀 I’m interested in ApeSwap, Algorand, Monero, Cryptocurrency, Blockchain, DeFi, GameFi, NFT, Project management, Community management, Business Development.
 - 🌱 I’m currently learning coding and project management for DeFi and Crypto projects.
 - 💞️ I’m looking to collaborate on many things  related to blockchain, crypto and DeFi.
-- 📫 How to reach me= mailto:kryptable@gmail.com
+- 📫 How to reach me= kryptable@gmail.com
 
 <!---
 Kryptables/Kryptables is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
